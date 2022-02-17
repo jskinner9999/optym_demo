@@ -1,8 +1,8 @@
 
 PubNub = require('pubnub');
 var pubnub = new PubNub({
-    publishKey: 'pub-c-60fb4095-3dbb-4452-8e92-d5c1fa342ef1',
-    subscribeKey: 'sub-c-f76ab604-2aca-11ec-b8a4-52e976b77916',
+    publishKey: 'PUB-KEY-HERE',
+    subscribeKey: 'SUB-KEY-HERE',
     logVerbosity: true,
     uuid: "PNSERVER",
     ssl: true,
